@@ -3,3 +3,4 @@ removed first line and added this line (edited)
 and edit second line (edited)
 
 added fourth line
+conflict2
