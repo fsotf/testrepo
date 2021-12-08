@@ -1,6 +1,6 @@
 
 removed first line and added this line (different edit)
+and edit second line (edited)
 
-and added third line (edit)
 added fourth line
 conflict1
