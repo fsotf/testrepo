@@ -4,4 +4,4 @@ and edit second line (edited)
 
 added fourth line
 conflict3
-min merge 2
+min merge commits 3
